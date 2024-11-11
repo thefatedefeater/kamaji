@@ -1,2 +1,2 @@
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&amp;security=none&amp;type=ws&amp;host=v2ra1.ecrgpk.workers.dev&amp;path=%2F#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40MTConfig
+vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.NeT#telegram
 
