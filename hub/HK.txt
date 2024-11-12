@@ -6,5 +6,3 @@ ss://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.171:80?path=%2F%40AZARBAYJ
 
 ss://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.13:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=juzibaipiao.5112233.xyz&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#Cloudflare+Relayed
 
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmpwaGMyUXhNak0wTlRZ@38.147.190.72:8388#@Hope_Net
-
