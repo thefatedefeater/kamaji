@@ -1,6 +1,8 @@
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#WiFi-
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#%40mehrosaboran
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#WiFi-
 
 ss://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;type=ws&amp;path=/Telegram@Linkvws?ed%3D2560&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;encryption=none#MCI-
 
