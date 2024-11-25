@@ -1,2 +1,2 @@
-ss://7790e51c-d4a1-461c-8afd-3dccc1859dbd@20.251.160.230:443?path=%2Fnews&amp;security=none&amp;encryption=none&amp;host=yjc.ir&amp;type=ws#[
+ss://7790e51c-d4a1-461c-8afd-3dccc1859dbd@20.251.160.230:443?security=none&amp;sni=yjc.ir&amp;type=ws&amp;path=/news#@Hope_Net-join-us-on-Telegram
 
