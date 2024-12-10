@@ -2,5 +2,3 @@ ss://4100d055-5857-44fb-9b7b-9d699dd4f347@95.217.31.246:18929?security=reality&a
 
 ss://e44d1746-370c-4b3d-a955-3020d2a4bf6c@bestco.bestshop10.ir:40240?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng
 
-vless://e44d1746-370c-4b3d-a955-3020d2a4bf6c@bestco.bestshop10.ir:40240?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng
-
