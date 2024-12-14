@@ -6,5 +6,3 @@ ss://f29df8c5-4d5a-4f0c-b22f-b8783fba222b@nodeser.sanjesh.online:7642?security=n
 
 ss://88318bd7-25e9-43fb-97cb-2c36f8db6a6c@135.181.155.147:40240?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40proxy_kafee+3
 
-ss://4100d055-5857-44fb-9b7b-9d699dd4f347@95.217.31.246:18929?security=reality&amp;encryption=none&amp;pbk=rFZOWxVcsZn5--1yLku3SGglZ0Y2Ban0buZIN3-vFwU&amp;host=bmw.com&amp;headerType=http&amp;fp=firefox&amp;spx=%2Ff2net&amp;type=tcp&amp;sni=testv6.tigervp.xyz&amp;sid=cfef326c#FreeForAll
-
