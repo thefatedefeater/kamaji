@@ -1,2 +1,2 @@
-ss://8363e5e4-b97f-4ddf-bbcd-4e8f8d826a35@213.176.66.228:37021?security=reality&amp;encryption=none&amp;pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=bc721eb6#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+ss://c75bf7f7-ed5f-4fb0-8725-62852d25a384@192.3.1.161:30003?encryption=none&amp;security=none&amp;type=kcp&amp;headerType=wireguard&amp;seed=MXzBfrSarp#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%BA%F0%9F%87%B8US+%F0%9F%94%BA%F0%9F%87%BA%F0%9F%87%B8US+%E2%98%91MTN
 
