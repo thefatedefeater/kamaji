@@ -2,3 +2,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTB0SjAyWFdwNUFzZGVNQmdzWlh4@54.251.126.150
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk%3D@45.158.59.74:58060#configkade%F0%9F%91%89%40proxystore11
 
+ss://64fbeeb0-95df-4d36-ba2c-1dad26d6926f@152.42.229.225:80?path=%2FFREE%20by%20Tharuwa%20%280767597317%29&amp;security=none&amp;encryption=none&amp;host=zoom.us&amp;type=ws#Singapore%20Digital%20Ocean
+
