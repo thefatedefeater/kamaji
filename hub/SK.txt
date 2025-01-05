@@ -1,2 +1,2 @@
-ss://c538dafa-4f0d-512a-ae22-c92e2e8b56fe@5.252.23.133:2052?security=none&amp;sni=sk1.vless.sitespeedtest.net&amp;type=ws&amp;host=5.252.23.133.&amp;path=/vless#@Hope_Net-join-us-on-Telegram
+ss://f8d38e09-c654-5045-9816-27cf78cc93fa@5.252.23.173:80?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#%40IrV2rey
 
