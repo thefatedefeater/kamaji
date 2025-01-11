@@ -1,4 +1,2 @@
-ss://2ec7295a-8a9a-46f0-a49d-2ae7fccac2ef@129.148.16.216:55503?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=portal.uel.br&amp;fp=chrome&amp;pbk=PimtfXUKBZKsFoY8h_xEPs2ff_8Z8W6VwuFc7gkpNDY&amp;sid=e8cd0826552e51&amp;type=tcp&amp;headerType=none#[
-
-ss://9b1b81ab-dae9-429f-b2e0-280991bdaedf@129.148.16.216:55501?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.softonic.com.br&amp;fp=chrome&amp;pbk=b9_3BpRBkW6SkPgV1ncUMgFLekVaYgNhMM2oNfPzBGU&amp;sid=60&amp;type=tcp&amp;headerType=none#[
+ss://2ec7295a-8a9a-46f0-a49d-2ae7fccac2ef@129.148.16.216:55503?security=reality&amp;flow=xtls-rprx-vision&amp;sni=portal.uel.br&amp;type=tcp&amp;fp=chrome&amp;pbk=PimtfXUKBZKsFoY8h_xEPs2ff_8Z8W6VwuFc7gkpNDY&amp;sid=e8cd0826552e51#@Hope_Net-join-us-on-Telegram
 
