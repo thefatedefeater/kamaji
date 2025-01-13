@@ -1,2 +1,2 @@
-ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.208:443?security=tls&amp;sni=cfed.tgzdyz2.top&amp;type=ws&amp;host=cfed.tgzdyz2.top&amp;path=%2F&amp;fp=chrome#@Hope_Net-join-us-on-Telegram
+ss://9765d6eb-f602-4986-955b-37397a8134b4@31.22.116.73:2087?security=tls&amp;sni=starkid.rapkingsan.com&amp;type=httpupgrade&amp;host=starkid.rapkingsan.com&amp;fp=chrome&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
