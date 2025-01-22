@@ -1,2 +1,2 @@
-ss://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?security=none&amp;sni=sk1.vless.site&amp;type=grpc&amp;serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
+ss://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%20
 
