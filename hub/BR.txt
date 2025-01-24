@@ -1,2 +1,2 @@
-ss://2ec7295a-8a9a-46f0-a49d-2ae7fccac2ef@129.148.16.216:55503?security=reality&amp;flow=xtls-rprx-vision&amp;sni=portal.uel.br&amp;type=tcp&amp;fp=chrome&amp;pbk=PimtfXUKBZKsFoY8h_xEPs2ff_8Z8W6VwuFc7gkpNDY&amp;sid=e8cd0826552e51#@Hope_Net-join-us-on-Telegram
+ss://157448af-8ecf-4075-a9e9-b23a6a94899b@sao-br.fromblancwithlove.com:8443?security=tls&amp;encryption=none&amp;alpn=h2&amp;headerType=none&amp;type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%B7
 
